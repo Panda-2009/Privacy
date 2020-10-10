@@ -1,2 +1,1 @@
-# appprivacy
-yinsi
+# App隐私政策

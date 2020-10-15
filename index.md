@@ -5,7 +5,7 @@ If you decide to use the services provided by our products, this agreement shall
 If you choose to use the services provided by us, you agree to collect and use the information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.
 Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions.Can be in一笔连线In the access。
 
-1. Collect information
+一. Collect information
 We collect some or all of the information you provide to us, as well as data about your use of the website and applications, but we will mainly use the collected data to provide you with satisfactory services and improve your use experience.
 
 1.1 collection of equipment and technical information

@@ -1,4 +1,4 @@
-一笔连线（And "we", "our" or "this app" mentioned below.）is composed of main bodyThe company 一笔连线 The network product that offers。
+一笔连线（And "we", "our" or "this app" mentioned below.）is composed of main body The company 一笔连线 The network product that offers。
 The product name： 一笔连线
 Product category：app
 If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.
@@ -18,6 +18,7 @@ We automatically get some information about your device, including IP address, c
 When using our services, we may require you to provide us with certain personally identifiable information (" personal data ") that can be used to contact or identify you. Personally identifiable information may include but not be limited to:
 
 Nothing.
+
 2. How to use the collected information
 一笔连线Use the collected data for some or all of the following purposes:
 
@@ -29,6 +30,7 @@ Provide analytical or valuable information so that we can improve our services
 Monitor service usage
 Detect, prevent and solve technical problems
 When you through the mobile device access service, we may automatically collect certain information, including but not limited to, you are using a mobile device type, mobile device ID, only the IP address of the mobile devices, mobile operating system, you use the mobile Internet browser types, unique device identifier and other diagnostic data (use "data").
+
 3. Information storage
 3.1 data security
 Data security is important to us, but remember that no security measure is perfect or impermeable. While we strive to protect your personal data in a commercially acceptable manner, we cannot guarantee its absolute security.
@@ -46,6 +48,7 @@ Protect and defend the rights or property of the software
 Prevent or investigate possible misconduct related to services
 Protect the personal safety of service or public users
 Prevention of liability
+
 3.4 service providers
 We may employ third parties (companies or individuals) to promote our services (" service providers "). Third parties provide services on our behalf, perform related services or assist us in analyzing how services are used. Third parties can only access your personal data on our behalf to perform these tasks and are obligated not to use it for any other purpose.
 
@@ -70,7 +73,9 @@ Example Cookie we used:
 A session Cookie. We use Session Cookies to run our services.
 Preference Cookie. We use the preference Cookie to remember your preferences and various Settings.
 Security Cookies. We use secure cookies for security reasons.
+
 8. Terms of service of the third party
+
 9. Statistical analysis
 Our products use third-party in-app payment, you need to agree with the privacy policy provided by the third-party service providers;
 Link to the privacy policy of the third-party service provider used by the application:
@@ -80,7 +85,7 @@ In accordance with this privacy policy, you may uninstall all applications from 
 
 11.Support
 If you have any questions about this privacy policy, please contact us:
-By email:admin@一笔连线.com.cn
+By email:lianxian@yblx.com.cn
 By link:
 By telephone:
 

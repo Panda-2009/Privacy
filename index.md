@@ -1,21 +1,91 @@
-本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。本软件会不时更新本隐私权政策。当您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分。
+一笔连线（And "we", "our" or "this app" mentioned below.）is composed of main bodyThe company 一笔连线 The network product that offers。
+The product name： 一笔连线
+Product category：app
+If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.
 
-1.适用范围
+If you choose to use the services provided by us, you agree to collect and use the information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.
 
-a)在您使用本软件网络服务，本软件自动接收并记录的您的手机上的信息，包括但不限于使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
+Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions.Can be in一笔连线In the access。
 
-2.信息披露
+1. Collect information
+We collect some or all of the information you provide to us, as well as data about your use of the website and applications, but we will mainly use the collected data to provide you with satisfactory services and improve your use experience.
 
-a)本软件不会将您的信息披露给不受信任的第三方。
+1.1 collection of equipment and technical information
+We may collect the data you need to use our application, and we can maintain and analyze the functionality of the application and personalize the content of the application.
+We automatically get some information about your device, including IP address, country code, time zone session start/stop time; IDFVs, language; Network status (wireless, etc.), browser plug-in type and version; Platform, SDK version, timestamp; Technical device information (such as device model and name, operating system name and version, CPU information, storage size, screen size, firmware, application software API key identifier, push notification token). While this information (such as IDFV, IP address) may uniquely identify your device, this information does not personally identify you. Some legislation (such as the United States) can uniquely identify your device as a personal information processing device.
 
-b)根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+1.2 routine personal information collection
+When using our services, we may require you to provide us with certain personally identifiable information (" personal data ") that can be used to contact or identify you. Personally identifiable information may include but not be limited to:
 
-c)如您出现违反中国有关法律、法规或者相关规则的情况，需要向第三方披露；
+Nothing.
+2. How to use the collected information
+一笔连线Use the collected data for some or all of the following purposes:
 
-3.信息存储和交换
+Provide and maintain services
+Notify you of changes to our services
+Allows you to participate in the interactive functions of our services at the time of selection
+Provide care and support to customers
+Provide analytical or valuable information so that we can improve our services
+Monitor service usage
+Detect, prevent and solve technical problems
+When you through the mobile device access service, we may automatically collect certain information, including but not limited to, you are using a mobile device type, mobile device ID, only the IP address of the mobile devices, mobile operating system, you use the mobile Internet browser types, unique device identifier and other diagnostic data (use "data").
+3. Information storage
+3.1 data security
+Data security is important to us, but remember that no security measure is perfect or impermeable. While we strive to protect your personal data in a commercially acceptable manner, we cannot guarantee its absolute security.
 
-本软件收集的有关您的信息和资料将保存在本软件及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本软件收集信息和资料所在地的境外并在境外被访问、存储和展示
+3.2 data transmission
+Your information (including personal data) may be transferred to computers outside your state, province, country or other government jurisdiction, and data protection laws for those computers may differ from data protection laws in your jurisdiction.
+If you are located outside China and choose to provide information to us, please note that we transfer data (including personal data) to China and process it in China.
+By agreeing to this privacy policy and then submitting such information, you agree to the transfer.
 
-4.信息安全
+3.3 data disclosure
+一笔连线May disclose your personal information in good faith, believing that such action is necessary:
 
-a)在使用本软件网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，请您立即联络本软件客服，以便本软件采取相应措施。
+Perform legal obligation
+Protect and defend the rights or property of the software
+Prevent or investigate possible misconduct related to services
+Protect the personal safety of service or public users
+Prevention of liability
+3.4 service providers
+We may employ third parties (companies or individuals) to promote our services (" service providers "). Third parties provide services on our behalf, perform related services or assist us in analyzing how services are used. Third parties can only access your personal data on our behalf to perform these tasks and are obligated not to use it for any other purpose.
+
+3.5 link to other websites
+Our services may contain links to other websites that we do not operate. If you click on a third party link, you will be directed to that third party's website. We strongly recommend that you review the privacy policies of each site you visit. We have no control over the content, privacy policies or practices of any third party websites or services and we assume no responsibility.
+
+4. Delete information
+When the information is no longer needed, we will take reasonable measures to delete it to protect the information from unauthorized access or use.If the content uploaded by users is suspected of being pornographic or violent and undesirable, we will have the right to delete it, and users can report it in the discovery module.
+
+5. Protect information
+We have implemented reasonable security measures to ensure the confidentiality, security and integrity of the information collected and to prevent unauthorized access and use of information that violates this privacy policy. Although we take reasonable efforts to ensure that your information remains secure during our maintenance, please note that no security measures are absolutely secure.
+
+6. Collection of information and data related to children
+We attach great importance to the protection of minors' personal information. If you are a minor under the age of 14, you should make sure to get the consent of your guardian before using our service. If you are a minor under the age of 14 and under 18, you should make sure to get the consent of yourself or your guardian before using our service. If we are informed that personal data of children under the age of 14 have been collected, we will take all reasonable steps to delete such data as soon as possible. If you know that your child provided us with personal information without your consent, please contact us.
+
+7.cookie
+We use cookies and similar tracking techniques to track activity on our services and retain certain information.
+A Cookie is a file that contains a small amount of data and may contain an anonymous unique identifier. Cookies are sent from the web site to your browser and stored on your device. Other tracking techniques such as beacons, tags, and scripts are used to collect and track information and to improve and analyze our services.
+You can instruct your browser to reject all cookies or indicate when to send cookies. However, if you do not accept cookies, you may not be able to use some parts of our service.
+Example Cookie we used:
+
+A session Cookie. We use Session Cookies to run our services.
+Preference Cookie. We use the preference Cookie to remember your preferences and various Settings.
+Security Cookies. We use secure cookies for security reasons.
+8. Terms of service of the third party
+9. Statistical analysis
+Our products use third-party in-app payment, you need to agree with the privacy policy provided by the third-party service providers;
+Link to the privacy policy of the third-party service provider used by the application:
+
+10.Exit
+In accordance with this privacy policy, you may uninstall all applications from each of your devices and discontinue use of this site, thereby forever choosing to remain free from any future collection of your personal information within the software.
+
+11.Support
+If you have any questions about this privacy policy, please contact us:
+By email:admin@一笔连线.com.cn
+By link:
+By telephone:
+
+12. Changes to this privacy policy
+We may update our privacy policy from time to time. We will notify you of any changes by Posting a new privacy policy on this page.
+It is recommended that you review this privacy policy periodically for any changes. Changes to this privacy policy take effect when published on this page.
+
+CopyRight © 2020 一笔连线
